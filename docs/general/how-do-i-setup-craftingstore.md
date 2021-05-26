@@ -1,0 +1,38 @@
+#How do I setup CraftingStore?
+
+This guide will get you started with CraftingStore in no-time!
+
+**Step 1: Crafting your account**  
+First, create your account. You can do this from this page: 
+
+**Step 2:**   
+The first step in the store itself is to create a "Server". A server will be used to connect the Minecraft plugin or Oxide plugin. Follow this guide on setting up your first server: 
+
+**Step 3:**  
+With the server created, we can now create a category. A category will hold all the packages that we create. It can also contain other categories to offer "sub-categories.  
+  
+Go to the categories page:  and click "Create Category". Fill in the name and description. You can, for example, call your category "Ranks".
+
+**Step 4:**  
+Next, the package, packages will be the ranks themselves, like VIP. Go to the packages page here:   
+  
+Click "Create package" and fill in all required fields (name, description, price, category, and server). Select the server and category that you just created.  
+  
+You can also add commands, for more information on package creation, take a look here: 
+
+**Step 5:**  
+Now it's time to give your store its own URL. You can do that from here:   
+You can choose to use a free "yourstore.craftingstore.net" domain, or you can use your own domain.  
+If you want to use a sub-domain of ours, simply fill it in, and you're done.  
+  
+If you want your own domain, follow this guide: 
+
+**Step 6:**  
+Last but not least, setting up the payment methods. You can process payments through various gateways, like PayPal. You can fill your details in at this page: 
+
+It requires you to create your own account at the services. For PayPal, you just need to fill in your E-mail address and you're all set.
+
+**Step 7:**  
+Now you can accept payments, good luck with your server!
+
+If you have issues getting started, or if you're having questions. Contact us through the support center. Or check out other knowledgebase items here!
