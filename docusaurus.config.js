@@ -11,7 +11,7 @@ module.exports = {
   projectName: 'craftingstore-docs',
   themeConfig: {
     navbar: {
-      title: '',
+      title: 'CraftingStore',
       logo: {
         alt: 'CraftingStore Logo',
         src: 'img/logo.png',
