@@ -6,7 +6,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.webp',
+  favicon: 'img/favicon.png',
   organizationName: 'craftingstore',
   projectName: 'craftingstore-docs',
   themeConfig: {
@@ -14,7 +14,7 @@ module.exports = {
       title: 'CraftingStore',
       logo: {
         alt: 'CraftingStore Logo',
-        src: 'img/logo.png',
+        src: 'img/logo-small.png',
       },
       items: [],
     },
