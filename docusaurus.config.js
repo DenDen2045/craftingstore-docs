@@ -7,7 +7,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.webp',
-  organizationName: 'craftingsotre',
+  organizationName: 'craftingstore',
   projectName: 'craftingstore-docs',
   themeConfig: {
     navbar: {
@@ -30,7 +30,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/craftingstre/craftingstore-docs/tree/master/',
+          editUrl: 'https://github.com/craftingstore/craftingstore-docs/tree/master/',
           routeBasePath: '/'
         },
         theme: {
