@@ -2,7 +2,7 @@
 
 This feature allows you to send E-mails through your own custom SMTP servers, with your own domain.
 
-1\. Open the receipt settings page, located in the sidebar ([click here](https://craftingstore.net/admin/settings/receipt)).   
+1\. Open the receipt settings page, located in the sidebar ([click here](https://dash.craftingstore.net/admin/settings/receipt)).   
 2\. Enable the "Own domain" section.   
   
 Items:  

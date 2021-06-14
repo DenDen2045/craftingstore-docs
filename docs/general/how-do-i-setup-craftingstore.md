@@ -3,7 +3,7 @@
 This guide will get you started with CraftingStore in no-time!
 
 **Step 1: Crafting your account**  
-First, create your account. You can do this from this page: [click](https://craftingstore.net/register)
+First, create your account. You can do this from this page: [click](https://dash.craftingstore.net/register)
 
 **Step 2:**   
 The first step in the store itself is to create a "Server". A server will be used to connect the Minecraft plugin or Oxide plugin. Follow this guide on setting up your first server: [click](https://help.craftingstore.net/general/how-to-create-a-server)
@@ -28,7 +28,7 @@ If you want to use a sub-domain of ours, simply fill it in, and you're done.
 If you want your own domain, follow this guide: [click](https://help.craftingstore.net/general/set-up-your-own-domain)
 
 **Step 6:**  
-Last but not least, setting up the payment methods. You can process payments through various gateways, like PayPal. You can fill your details in at this page: [click](https://craftingstore.net/admin/gateways)
+Last but not least, setting up the payment methods. You can process payments through various gateways, like PayPal. You can fill your details in at this page: [click](https://dash.craftingstore.net/admin/gateways)
 
 It requires you to create your own account at the services. For PayPal, you just need to fill in your E-mail address and you're all set.
 

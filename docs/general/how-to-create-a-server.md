@@ -2,7 +2,7 @@
 
 CraftingStore uses servers (API Tokens) to communicate with the plugin. This guide will help you with creating a new server.
 
-1\. Open the dashboard at CraftingStore.net ([click](https://craftingstore.net))  
+1\. Open the dashboard at CraftingStore.net ([click](https://dash.craftingstore.net/admin))  
 2\. Click \[ Webstore -&gt; servers \] in the sidebar of the panel.   
 3\. Click "New server" at the right top.   
 4\. Enter a name, and select the desired plugin version.   

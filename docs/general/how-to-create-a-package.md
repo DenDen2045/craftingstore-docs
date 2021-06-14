@@ -2,7 +2,7 @@
 
 Categories are used to store packages. They add structure to your store. You can have a category named "Kits" with only kits.
 
-1\. Open the dashboard at CraftingStore.net ([click](https://craftingstore.net))  
+1\. Open the dashboard at CraftingStore.net ([click](https://dash.craftingstore.net/admin))  
 2\. Click "Packages" in the sidebar of the panel.   
 3\. Click "New package" at the right top.   
   

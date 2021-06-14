@@ -17,7 +17,7 @@ You have a few possibilities, some require an external service, a few possibilit
 **Premium store with custom-domain:**  
 We offer HTTPs within our premium plans but it is not enabled by default, you can enable it at the "HTTPs" tab within the settings page at your CraftingStore dashboard. (detailed tutorial: )
 
-Also, make sure that HTTPS redirect is enabled, you can do that from here ([click](https://craftingstore.net/admin/settings/domain)). This will force all users to use the secure version of your web-store.
+Also, make sure that HTTPS redirect is enabled, you can do that from here ([click](https://dash.craftingstore.net/admin/settings/domain)). This will force all users to use the secure version of your web-store.
 
 If you did issue the certificate but it is not showing up there might be something wrong. Certificates are issued by Lets Encrypt on an external service, give it at least 30 minutes. We will get notified when a certificate fails to issue 3 times in a row.
 
