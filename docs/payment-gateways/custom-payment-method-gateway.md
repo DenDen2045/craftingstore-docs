@@ -42,7 +42,18 @@ When the customer clicks your payment method, we will do a POST request on your 
   "currency": "USD", // Currency
   "user": {
     "identifier": "1234567", // Internal identifier (basket ID)
-    "email": "dummy@craftingstore.net" // Client email
+    "email": "dummy@craftingstore.net", // Client email
+    "firstName": "Dummy", // nullable
+    "lastName": "Doe", // nullable
+    "billingAddressLineOne": "Examplestreet 3", // nullable
+    "billingAddressLineTwo": "", // nullable
+    "billingCity": "ExampleTown", // nullable
+    "billingZipCode": "1111AA", // nullable
+    "billingCountry": { // nullable
+      "name": "Netherlands",
+      "code": "NL",
+      "currency": "EUR"
+    },
   },
   "package": {
     "name": "Example package", // Combined package name
@@ -55,6 +66,7 @@ When the customer clicks your payment method, we will do a POST request on your 
   }
 }
 ```
+Note: Billing information is only available when you have this enabled at [ Settings -> Webshop ]. 
 
 We expect the following JSON output:
 
