@@ -97,6 +97,7 @@ We expect the following body:
 ```
 
 And a "**X-Signature**" header, with the raw JSON content as its content, and your secret key as the key, just like you use to verify our calls.
+Note: Make sure that you remove any spaces and enters before calculating the hash, the above example will become: `{"type": "paid","transactionId": "DUMMY-DUMMY-DUMMY"}`. If you do not remove those, it will reject your signature.
 
 ##### Payment retention time
 
