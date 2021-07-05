@@ -3,16 +3,17 @@
 Custom variables can be used to ask the user for extra information for a specific package.
 
 You can ask the user for the following information:
-Text: Plain text, the user can enter any text they like.
 
-Dropdown: You pre-define selectable items that the user can choose between. You can also charge an extra fee for a specific option.
+**Text**: Plain text, the user can enter any text they like.
 
-Alphabetic: Only alphabetic characters are allowed. You can also define the min and max characters.
+**Dropdown**: You pre-define selectable items that the user can choose between. You can also charge an extra fee for a specific option.
 
-Numeric: Only numbers are allowed. You can also define the min and max amounts.
+**Alphabetic**: Only alphabetic characters are allowed. You can also define the min and max characters.
 
-Alphanumeric: Both letters and numbers are allowed.
+**Numeric**: Only numbers are allowed. You can also define the min and max amounts.
 
-Email: The user must enter a valid email address (valid format).
+**Alphanumeric**: Both letters and numbers are allowed.
+
+**Email**: The user must enter a valid email address (valid format).
 
 [![N8XDuwwJEh.png](/img/premium-features/custom-variables/N8XDuwwJEh.png)](/img/premium-features/custom-variables/N8XDuwwJEh.png)
